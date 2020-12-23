@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">MyFit</string>
+    <string name="tab_text_1">BMI Calc</string>
+    <string name="tab_text_2">Meal Plans</string>
+    <string name="tab_text_3">Workout Guides</string>
+    <string name="button_text">Logout</string>
+    <string name="underweight">Underweight</string>
+    <string name="normal">Normal</string>
+    <string name="activity_1">Meal Plan</string>
+    <string name="overweight">Overweight</string>
+    <string name="very_overweight">Very Overweight</string>
+    <string name="todo">TODO</string>
+    <string name="workout_guide">Workout Guide</string>
+    <string name="abs_exercises">Abs Exercises</string>
+    <string name="abs">abs</string>
+    <string name="chest">chest</string>
+    <string name="triceps">triceps</string>
+    <string name="instruction">Please choose the muscle category you would like to work on</string>
+    <string name="abs_workout">Abs Workout</string>
+    <string name="chest_workout">Chest Workout</string>
+    <string name="leg_workout">Leg Workout</string>
+    <string name="back_workout">Back Workout</string>
+    <string name="cardio_workout">Cardio Workout</string>
+    <string name="shoulder_workout">Shoulder Workout</string>
+    <string name="triceps_workout">Triceps Workout</string>
+    <string name="abbs">abbs</string>
+    <string name="leg">leg</string>
+    <string name="cardio">cardio</string>
+    <string name="back">back</string>
+    <string name="shoulder">shoulder</string>
+    <string name="biceps">biceps</string>
+    <string name="biceps_workout">Biceps Workout</string>
+    <string name="bicep">bicep</string>
+
+    //Tab One//
+    <string name="bmi_cal_title">BMI Calculator</string>
+    <string name="bmi_height">Enter Your Height (cm)</string>
+    <string name="bmi_weight">Enter Your Weight (kg)</string>
+    <string name="bmi_btn">Calculate BMI</string>
+    <string name="bmi_text1">Your BMI is </string>
+
+
+</resources>
